@@ -1,0 +1,6 @@
+﻿  additionalproject8.cpp
+C:\Users\csuser\Desktop\additionalproject8\additionalproject8.cpp(2,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\csuser\Desktop\additionalproject8\additionalproject8.cpp(8,16): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+C:\Users\csuser\Desktop\additionalproject8\additionalproject8.cpp(11,16): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+C:\Users\csuser\Desktop\additionalproject8\additionalproject8.cpp(14,16): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+  additionalproject8.vcxproj -> C:\Users\csuser\Desktop\additionalproject8\Debug\additionalproject8.exe

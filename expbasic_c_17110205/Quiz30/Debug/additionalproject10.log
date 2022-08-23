@@ -1,0 +1,4 @@
+﻿  additionalproject10.cpp
+C:\Users\csuser\Desktop\additionalproject10\additionalproject10.cpp(13,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\csuser\Desktop\additionalproject10\additionalproject10.cpp(14,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  additionalproject10.vcxproj -> C:\Users\csuser\Desktop\additionalproject10\Debug\additionalproject10.exe

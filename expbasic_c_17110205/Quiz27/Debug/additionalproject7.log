@@ -1,0 +1,3 @@
+﻿  additionalproject7.cpp
+C:\Users\csuser\Desktop\additionalproject7\additionalproject7.cpp(2,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  additionalproject7.vcxproj -> C:\Users\csuser\Desktop\additionalproject7\Debug\additionalproject7.exe
